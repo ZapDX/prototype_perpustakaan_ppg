@@ -10025,8 +10025,8 @@ msgstr "Koleksi"
 #: template/lightweight/index_template.inc.php:84
 #: template/lightweight/index_template.inc.php:85
 #: template/lightweight/partials/nav.php:9
-msgid "Member Area"
-msgstr "Area Anggota"
+msgid "Log In"
+msgstr "Log In"
 
 #: template/akasia-dz/index_template.inc.php:113
 #: template/akasia/index_template.inc.php:130
