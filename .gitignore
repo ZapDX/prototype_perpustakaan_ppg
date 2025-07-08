@@ -9,7 +9,7 @@ images/default/webicon.*
 files/*
 !files/membercard/*
 repository/*
-#config/*
+config/*
 cache/*
 .DS_Store
 ._.*
