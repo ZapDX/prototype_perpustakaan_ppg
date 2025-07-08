@@ -130,7 +130,7 @@ define('COMMAND_FAILED', 2);
 
 // require composer library
 if (file_exists(SB . 'vendor/autoload.php')) require SB . 'vendor/autoload.php';
-require LIB . 'autoload.php';
+// require LIB . 'autoload.php'; update soalnya bikin ga nyambung
 // simbio main class inclusion
 require SIMBIO.'simbio.inc.php';
 // simbio security class
