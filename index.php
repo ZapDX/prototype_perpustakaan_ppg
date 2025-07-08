@@ -27,7 +27,7 @@ use SLiMS\{Opac,Plugins};
 define('INDEX_AUTH', '1');
 
 // required file
-require 'sysconfig.inc.php';
+require 'config/sysconfig.inc.php';
 
 // Cleanup SQL Injection and Common XSS
 $sanitizer->cleanUp(exception: ['contentDesc','fieldEnc']);
